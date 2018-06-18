@@ -11,3 +11,4 @@
 * Using Intermediate Representations to Solve Math Word Problems
 * Accurate SHRG-Based Semantic Parsing
 * [Marrying Up Regular Expressions with Neural Networks: A Case Study for Spoken Language Understanding](https://arxiv.org/abs/1805.05588)
+* [DialSQL: Dialogue Based Structured Query Generation](http://cs.ucsb.edu/~ysu/papers/acl18_dialsql.pdf)

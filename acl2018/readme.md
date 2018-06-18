@@ -3,3 +3,4 @@
 * [A Graph-to-Sequence Model for AMR-to-Text Generation](https://www.cs.rochester.edu/u/gildea/pubs/song-acl18.pdf)
 * [Coarse-to-Fine Decoding for Neural Semantic Parsing](https://arxiv.org/pdf/1805.04793.pdf)
 * [Confidence Modeling for Neural Semantic Parsing](https://arxiv.org/pdf/1805.04604.pdf)
+* [Zero-Shot Transfer Learning for Event Extraction](http://nlp.cs.rpi.edu/paper/zeroshot2018.pdf)

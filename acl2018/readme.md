@@ -8,3 +8,6 @@
 * [Simple and Effective Text Simplification Using Semantic and Neural Methods](http://www.cs.huji.ac.il/~oabend/papers/simplification_ucca.pdf)
 * [Improving Text-to-SQL Evaluation Methodology](http://jkk.name/publication/acl18sql/)
 * [Context-Aware Neural Model for Temporal Information Extraction](http://www.cs.uml.edu/~arum/publications/Meng_Rumshisky_ACL2018.pdf)
+* Using Intermediate Representations to Solve Math Word Problems
+* Accurate SHRG-Based Semantic Parsing
+* [Marrying Up Regular Expressions with Neural Networks: A Case Study for Spoken Language Understanding](https://arxiv.org/abs/1805.05588)

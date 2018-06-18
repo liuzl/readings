@@ -4,3 +4,4 @@
 * [Coarse-to-Fine Decoding for Neural Semantic Parsing](https://arxiv.org/pdf/1805.04793.pdf)
 * [Confidence Modeling for Neural Semantic Parsing](https://arxiv.org/pdf/1805.04604.pdf)
 * [Zero-Shot Transfer Learning for Event Extraction](http://nlp.cs.rpi.edu/paper/zeroshot2018.pdf)
+* [Weakly Supervised Semantic Parsing with Abstract Examples](https://arxiv.org/pdf/1711.05240.pdf)

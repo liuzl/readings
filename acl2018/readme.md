@@ -6,3 +6,4 @@
 * [Zero-Shot Transfer Learning for Event Extraction](http://nlp.cs.rpi.edu/paper/zeroshot2018.pdf)
 * [Weakly Supervised Semantic Parsing with Abstract Examples](https://arxiv.org/pdf/1711.05240.pdf)
 * [Simple and Effective Text Simplification Using Semantic and Neural Methods](http://www.cs.huji.ac.il/~oabend/papers/simplification_ucca.pdf)
+* [Improving Text-to-SQL Evaluation Methodology](http://jkk.name/publication/acl18sql/)
